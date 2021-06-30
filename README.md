@@ -2,7 +2,7 @@
 - 👀 I’m interested in web
 - 🌱 I’m currently learning web
 - 💞️ I’m looking to collaborate on web
-- 📫 How to reach me throgh web
+- 📫 How to reach me through web
 
 <!---
 Abhishek-plivo/Abhishek-plivo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
